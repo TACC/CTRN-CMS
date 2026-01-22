@@ -72,7 +72,7 @@ TACC_CORE_STYLES_VERSION = 2
 # DJANGOCMS_BLOG
 ########################
 
-BLOG_AUTO_SETUP = False # Set to False after setup (minimize overhead)
+BLOG_AUTO_SETUP = True # Set to False after setup (minimize overhead)
 BLOG_AUTO_HOME_TITLE ='Home'
 BLOG_AUTO_BLOG_TITLE = 'News'
 BLOG_AUTO_APP_TITLE = 'News'

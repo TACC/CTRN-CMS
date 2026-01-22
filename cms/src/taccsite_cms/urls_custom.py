@@ -9,4 +9,7 @@ custom_urls = [
     # TODO: Make CMS-only Portal Use TAPIs Auth & Do Not Do This
     path('accounts/', include('django.contrib.auth.urls')),
 
+    # To support `taggit_autosuggest` (from `djangocms-blog`)
+    re_path(r'^taggit_autosuggest/', include('taggit_autosuggest.urls')),
+
 ]
