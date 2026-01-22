@@ -1,6 +1,6 @@
-## TACC Custom CMS
+## CTRN CMS
 
-https://cep.tacc.utexas.edu/
+https://ctrn-web.tacc.utexas.edu/
 
 > [!IMPORTANT]
 > After creating a repository from [Core CMS Template]:
