@@ -1,0 +1,22 @@
+/* To avoid empty space in article headers */
+/* FAQ: CTRN sets categories (cats) but no author (attr) */
+.blog-list article header {
+    grid-template-areas:
+        'cats     dates'
+        'title    title'
+        'subtitle subtitle'
+        'tags     tags';
+}
+.post-item:not(.post-detail) header .dates {
+    /* FAQ: Because CTRN grid-template-areas moves date position in header */
+    text-align: right;
+}
+
+/* To not squish date when multiple categories are present */
+/* FAQ: CTRN has less room for categories than Core */
+.app-blog .categories {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    flex-wrap: wrap;
+}

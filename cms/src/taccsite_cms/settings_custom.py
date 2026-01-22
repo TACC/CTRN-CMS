@@ -26,7 +26,7 @@ PORTAL_BRANDING = [ PORTAL_BRANDING_TACC, PORTAL_BRANDING_UTEXAS ]
 
 PORTAL_LOGO = {
     "is_remote": True,
-    "img_file_src": "https://cdn.jsdelivr.net/gh/TACC/Core-CMS-Custom@2e1fab7/ctrn_assets/logo.svg",
+    "img_file_src": "https://cdn.jsdelivr.net/gh/wesleyboar/CTRN-CMS@refactor/identify-as-ctrn/assets/logo.svg",
     "img_class": "",
     "link_href": "/",
     "link_target": "_self",
@@ -35,7 +35,7 @@ PORTAL_LOGO = {
 }
 
 PORTAL_FAVICON = {
-    "img_file_src": "https://cdn.jsdelivr.net/gh/TACC/Core-CMS-Custom@2e1fab7/ctrn_assets/favicon.svg",
+    "img_file_src": "https://cdn.jsdelivr.net/gh/wesleyboar/CTRN-CMS@refactor/identify-as-ctrn/assets/favicon.svg",
     "is_remote": True
 }
 
@@ -56,7 +56,7 @@ PORTAL_NAV_WIDTH = 'md'
 PORTAL_STYLES = [
     {
         "is_remote": True,
-        "path": "https://cdn.jsdelivr.net/gh/TACC/Core-CMS-Custom@2e1fab7/ctrn_assets/cms.css",
+        "path": "https://cdn.jsdelivr.net/gh/wesleyboar/CTRN-CMS@refactor/identify-as-ctrn/assets/cms.css",
     },
     # For white header
     {
