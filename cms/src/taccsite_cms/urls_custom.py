@@ -1,4 +1,4 @@
-from django.urls import path, include
+from django.urls import re_path, path, include
 
 custom_urls = [
 
