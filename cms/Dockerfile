@@ -1,5 +1,4 @@
-FROM taccwma/core-cms:v4.35.23
-# Had once used taccwma/core-cms:448b6b30 (TACC/Core-CMS#885 v4.26.1+)
+FROM taccwma/core-cms:v4.37.0
 
 WORKDIR /code
 

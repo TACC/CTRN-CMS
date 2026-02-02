@@ -17,5 +17,6 @@ _No custom instructions yet._
 
 [Core CMS]: https://github.com/TACC/Core-CMS
 
-[core-cms-template-start]: https://github.com/TACC/Core-CMS-Template/blob/v0.6.0/docs/start-project.md#start-project
-[core-cms-template-docs]: https://github.com/TACC/Core-CMS-Template/blob/v0.6.0/docs/README.md#tacc-custom-cms
+[core-cms-template-setup]: https://github.com/TACC/Core-CMS-Template/blob/v0.7.0/docs/create-project.md#set-up-project
+[core-cms-template-start]: https://github.com/TACC/Core-CMS-Template/blob/v0.7.0/docs/start-project.md#start-project
+[core-cms-template-docs]: https://github.com/TACC/Core-CMS-Template/blob/v0.7.0/docs/README.md#tacc-custom-cms
