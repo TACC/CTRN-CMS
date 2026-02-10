@@ -34,4 +34,4 @@ jobs:
         with:
           context: cms
           push: true
-          tags: taccwma/custom-cms:${{ steps.vars.outputs.SHORT_SHA }},taccwma/custom-cms:${{ steps.vars.outputs.BRANCH_NAME }},taccwma/custom-cms:latest
+          tags: taccwma/ctrn-cms:${{ steps.vars.outputs.SHORT_SHA }},taccwma/ctrn-cms:${{ steps.vars.outputs.BRANCH_NAME }},taccwma/ctrn-cms:latest
