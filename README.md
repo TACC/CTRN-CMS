@@ -2,6 +2,9 @@
 
 https://ctrn-web.tacc.utexas.edu/
 
+> [!important]
+> This repo was abandoned in favor of original solution: standard [Core CMS], minimal [UI customization](https://github.com/TACC/Core-CMS-Custom/tree/c536901/ctrn_assets).
+
 ## Quick Start
 
 Follow [Core CMS Template's "Start Project"][core-cms-template-start].
